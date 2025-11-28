@@ -1,0 +1,14 @@
+C:\Users\moksh\linux-assignment3-group11\bin\Debug\net8.0\linux-assignment3-group11.exe
+C:\Users\moksh\linux-assignment3-group11\bin\Debug\net8.0\linux-assignment3-group11.deps.json
+C:\Users\moksh\linux-assignment3-group11\bin\Debug\net8.0\linux-assignment3-group11.runtimeconfig.json
+C:\Users\moksh\linux-assignment3-group11\bin\Debug\net8.0\linux-assignment3-group11.dll
+C:\Users\moksh\linux-assignment3-group11\bin\Debug\net8.0\linux-assignment3-group11.pdb
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\linux-assignment3-group11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\linux-assignment3-group11.AssemblyInfoInputs.cache
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\linux-assignment3-group11.AssemblyInfo.cs
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\linux-assignment3-group11.csproj.CoreCompileInputs.cache
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\linux-assignment3-group11.dll
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\refint\linux-assignment3-group11.dll
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\linux-assignment3-group11.pdb
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\linux-assignment3-group11.genruntimeconfig.cache
+C:\Users\moksh\linux-assignment3-group11\obj\Debug\net8.0\ref\linux-assignment3-group11.dll

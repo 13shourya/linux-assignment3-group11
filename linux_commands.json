@@ -1,0 +1,47 @@
+[
+  {
+    "command": "ls",
+    "description": "Lists files and directories.",
+    "category": "File Management"
+  },
+  {
+    "command": "pwd",
+    "description": "Prints current working directory.",
+    "category": "Navigation"
+  },
+  {
+    "command": "cd",
+    "description": "Changes directory.",
+    "category": "Navigation"
+  },
+  {
+    "command": "mkdir",
+    "description": "Creates a new directory.",
+    "category": "File Management"
+  },
+  {
+    "command": "rm",
+    "description": "Removes files or directories.",
+    "category": "File Management"
+  },
+  {
+    "command": "cp",
+    "description": "Copies files or directories.",
+    "category": "File Management"
+  },
+  {
+    "command": "mv",
+    "description": "Moves or renames files.",
+    "category": "File Management"
+  },
+  {
+    "command": "cat",
+    "description": "Displays file content.",
+    "category": "File Viewing"
+  },
+  {
+    "command": "echo",
+    "description": "Outputs text to the terminal.",
+    "category": "Other"
+  }
+]
